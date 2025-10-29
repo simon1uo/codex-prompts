@@ -12,6 +12,7 @@ This repository centralizes prompt building blocks aligned with the latest OpenA
 - [`prompts/kiro.md`](prompts/kiro.md): KIRO workflow that produces requirements, design, and implementation planning artifacts with explicit user approvals at each stage. Source: [kingkongshot
 /KIRO](https://github.com/kingkongshot/prompts/blob/main/prompts/kiro/spec.md)
 - [`prompts/riper.md`](prompts/riper.md): RIPER workflow (Research → Innovate → Plan → Execute → Review). Source: [robotlovehuman/RIPER-5 Mode](https://forum.cursor.com/t/i-created-an-amazing-mode-called-riper-5-mode-fixes-claude-3-7-drastically/65516).
+- [`prompts/ultrathink.md`](prompts/ultrathink.md): Ultrathink multi-agent orchestration workflow balancing architecture, research, coding, and testing insights. Source: [eLyiN92/Ultrathink Task Command](http://reddit.com/r/ClaudeAI/comments/1lpvj7z/ultrathink_task_command/)
 
 ## Getting Started
 
